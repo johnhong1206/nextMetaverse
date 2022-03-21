@@ -25,6 +25,10 @@ function Login() {
         >
           Login to ZH Metaverse
         </button>
+        <p className="my-4 font-medium text-center">
+          If want to view the demo please contact owner to relaunch Moralis
+          Database
+        </p>
       </div>
       <div className="w-full h-screen">
         <Image
